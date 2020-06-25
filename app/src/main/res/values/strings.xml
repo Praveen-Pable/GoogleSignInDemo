@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">GoogleSignInDemo</string>
-    <string name="strLoginOut">Login Out</string>
-    <string name="strLogin">LoggedIn</string>
+    <string name="strLoginOut">Logged Out</string>
+    <string name="strLogin">Logged In</string>
     <string name="strHello">Hello</string>
+    <string name="strAuthFailed">Authentication Failed</string>
+    <string name="strUnableToFetchToken">Unable to fetch token Id</string>
 </resources>
