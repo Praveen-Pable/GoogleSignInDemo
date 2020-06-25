@@ -36,6 +36,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     //adding firebase dependency
+    implementation "com.google.firebase:firebase-auth:19.3.1"
     implementation 'com.google.firebase:firebase-analytics:17.4.3'
 
     //adding google sign-in dependencies
